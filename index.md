@@ -5,6 +5,6 @@
 ## SpringBoot Learning
 
 
-- [springboot](https://yanqi02.github.io/springboot)
-- [springboot-more](https://yanqi02.github.io/springboot-more)
+- [springboot] (https://yanqi02.github.io/springboot)
+- [springboot-more] (https://yanqi02.github.io/springboot-more)
 
