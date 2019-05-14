@@ -15,4 +15,5 @@
 ``` final MessageAdapter msgAdapter = new MessageAdapter(this, list);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
         recycleView.setLayoutManager(layoutManager);
-        recycleView.setAdapter(msgAdapter);```
+        recycleView.setAdapter(msgAdapter);
+```
